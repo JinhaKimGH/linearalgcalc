@@ -1,5 +1,7 @@
 Welcome to LinearAlgCalc!
 
+This repository is mainly used to display the sourcecode utilized for my library.
+
 This library is built to simplify linear algebra calculations.
 
 There are three main classes in this library: Complex numbers, Vectors, and Complex Vectors which all simplify the
