@@ -619,5 +619,3 @@ def matrix_determinant(matrix1, total=0):
         total += sign * matrix1[0][column] * sub_det
 
     return total
-
-# Potentially add system of equations - test consistency with rank - RREF - matrix inverse
